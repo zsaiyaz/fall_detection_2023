@@ -1,0 +1,8 @@
+filterpy
+opencv_python
+Pillow
+scikit-image
+streamlit
+torch
+ultralytics
+# python 3.9.12
